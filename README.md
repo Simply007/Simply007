@@ -1,6 +1,6 @@
 # Hi, my name is Ondřej 👋
 
-> __[:eyes: Are you interested in who I am?](https://ondrej.chrastina.dev)__
+> __[:eyes: Wanna know who am I?](https://ondrej.chrastina.dev)__
 
 [![Cover photo](https://raw.githubusercontent.com/Simply007/Simply007/master/1500x500.jpg "Death Valley")](https://ondrej.chrastina.dev)
 
