@@ -6,5 +6,5 @@
 
 :bulb: TRAVELER, TECH ENTHUSIASTIC, OPEN-SOURCE LOVER, AND DEVELOPER ADVOCATE BY POSITION.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simply007&show_icons=true&theme=dracula)
-![Top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Simply007&show_icons=true&layout=compact&theme=dracula)
+![GitHub stats](https://github-readme-stats-plum-chi-49.vercel.app/api?username=Simply007&show_icons=true&theme=dracula)
+![Top lang stats](https://github-readme-stats-plum-chi-49.vercel.app/api/top-langs/?username=Simply007&show_icons=true&layout=compact&theme=dracula)
